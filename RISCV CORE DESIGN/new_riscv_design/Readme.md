@@ -29,3 +29,12 @@ and run the above command as specified above
 ## Now , I am facing this error in running this FAKERAM ,
 as otherthan FAKERAM new RISCV design will not be able to generate properly .
 
+For solving the above error use this command 
+
+* python3 run.py example_input_file.cfg *
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/90523478/227725287-7d3a56df-11a3-449e-9aa2-4a5ac802131a.png">
+ </p> 
+
+
