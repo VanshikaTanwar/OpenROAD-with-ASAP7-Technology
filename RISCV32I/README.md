@@ -6,11 +6,11 @@
 
 
 
-## Documentation
+## Before adding any parameter in config.mk
 
 
 
-## Comments/Notes
+## Improvemenyt after adding some of the parameters in config.mk for reducing the size
 
 
 
