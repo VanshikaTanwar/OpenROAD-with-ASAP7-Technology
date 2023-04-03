@@ -1,0 +1,116 @@
+OpenROAD v2.0-6895-g5c85b36f8 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13178, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13211, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13244, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13277, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13310, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13343, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 13376, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 14772, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 14805, timing group from output port.
+[WARNING STA-0164] ./platforms/asap7/lib/asap7sc7p5t_SIMPLE_RVT_FF_nldm_211120.lib.gz line 14838, timing group from output port.
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: 54 270
+[INFO GPL-0004] CoreAreaLxLy: 2052 2160
+[INFO GPL-0005] CoreAreaUxUy: 166806 100710
+[INFO GPL-0006] NumInstances: 11809
+[INFO GPL-0007] NumPlaceInstances: 8631
+[INFO GPL-0008] NumFixedInstances: 2219
+[INFO GPL-0009] NumDummyInstances: 959
+[INFO GPL-0010] NumNets: 8934
+[INFO GPL-0011] NumPins: 33818
+[INFO GPL-0012] DieAreaLxLy: 0 0
+[INFO GPL-0013] DieAreaUxUy: 168835 102941
+[INFO GPL-0014] CoreAreaLxLy: 2052 2160
+[INFO GPL-0015] CoreAreaUxUy: 166806 100710
+[INFO GPL-0016] CoreArea: 16236506700
+[INFO GPL-0017] NonPlaceInstsArea: 2930638320
+[INFO GPL-0018] PlaceInstsArea: 2485867920
+[INFO GPL-0019] Util(%): 18.68
+[INFO GPL-0020] StdInstsArea: 1333253520
+[INFO GPL-0021] MacroInstsArea: 1152614400
+[INFO GPL-0031] FillerInit: NumGCells: 81228
+[INFO GPL-0032] FillerInit: NumGNets: 8934
+[INFO GPL-0033] FillerInit: NumGPins: 33818
+[INFO GPL-0023] TargetDensity: 1.00
+[INFO GPL-0024] AveragePlaceInstArea: 288016
+[INFO GPL-0025] IdealBinArea: 288016
+[INFO GPL-0026] IdealBinCnt: 56373
+[INFO GPL-0027] TotalBinArea: 16236506700
+[INFO GPL-0028] BinCnt: 128 128
+[INFO GPL-0029] BinSize: 1288 770
+[INFO GPL-0030] NumBins: 16384
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: 54 270
+[INFO GPL-0004] CoreAreaLxLy: 2052 2160
+[INFO GPL-0005] CoreAreaUxUy: 166806 100710
+[INFO GPL-0006] NumInstances: 11809
+[INFO GPL-0007] NumPlaceInstances: 8631
+[INFO GPL-0008] NumFixedInstances: 2219
+[INFO GPL-0009] NumDummyInstances: 959
+[INFO GPL-0010] NumNets: 8934
+[INFO GPL-0011] NumPins: 33683
+[INFO GPL-0012] DieAreaLxLy: 0 0
+[INFO GPL-0013] DieAreaUxUy: 168835 102941
+[INFO GPL-0014] CoreAreaLxLy: 2052 2160
+[INFO GPL-0015] CoreAreaUxUy: 166806 100710
+[INFO GPL-0016] CoreArea: 16236506700
+[INFO GPL-0017] NonPlaceInstsArea: 2930638320
+[INFO GPL-0018] PlaceInstsArea: 2485867920
+[INFO GPL-0019] Util(%): 18.68
+[INFO GPL-0020] StdInstsArea: 1333253520
+[INFO GPL-0021] MacroInstsArea: 1152614400
+[INFO GPL-0031] FillerInit: NumGCells: 21721
+[INFO GPL-0032] FillerInit: NumGNets: 8934
+[INFO GPL-0033] FillerInit: NumGPins: 33683
+[INFO GPL-0023] TargetDensity: 0.27
+[INFO GPL-0024] AveragePlaceInstArea: 288016
+[INFO GPL-0025] IdealBinArea: 1065799
+[INFO GPL-0026] IdealBinCnt: 15234
+[INFO GPL-0027] TotalBinArea: 16236506700
+[INFO GPL-0028] BinCnt: 64 64
+[INFO GPL-0029] BinSize: 2575 1540
+[INFO GPL-0030] NumBins: 4096
+[NesterovSolve] Iter: 1 overflow: 0.94067 HPWL: 7697657
+[NesterovSolve] Iter: 10 overflow: 0.930823 HPWL: 4110872
+[NesterovSolve] Iter: 20 overflow: 0.935527 HPWL: 4092357
+[NesterovSolve] Iter: 30 overflow: 0.935379 HPWL: 4087868
+[NesterovSolve] Iter: 40 overflow: 0.93536 HPWL: 4092531
+[NesterovSolve] Iter: 50 overflow: 0.935644 HPWL: 4114952
+[NesterovSolve] Iter: 60 overflow: 0.935742 HPWL: 4125351
+[NesterovSolve] Iter: 70 overflow: 0.935778 HPWL: 4140361
+[NesterovSolve] Iter: 80 overflow: 0.935821 HPWL: 4160836
+[NesterovSolve] Iter: 90 overflow: 0.93585 HPWL: 4196432
+[NesterovSolve] Iter: 100 overflow: 0.935898 HPWL: 4266504
+[NesterovSolve] Iter: 110 overflow: 0.935663 HPWL: 4403022
+[NesterovSolve] Iter: 120 overflow: 0.930998 HPWL: 4681100
+[NesterovSolve] Iter: 130 overflow: 0.910964 HPWL: 5224163
+[NesterovSolve] Iter: 140 overflow: 0.908006 HPWL: 6163033
+[NesterovSolve] Iter: 150 overflow: 0.907829 HPWL: 7803528
+[NesterovSolve] Iter: 160 overflow: 0.902474 HPWL: 9447023
+[NesterovSolve] Iter: 170 overflow: 0.891521 HPWL: 11879406
+[NesterovSolve] Iter: 180 overflow: 0.862523 HPWL: 14684543
+[NesterovSolve] Iter: 190 overflow: 0.859876 HPWL: 17730641
+[NesterovSolve] Iter: 200 overflow: 0.846491 HPWL: 21557228
+[NesterovSolve] Iter: 210 overflow: 0.859387 HPWL: 26536690
+[NesterovSolve] Iter: 220 overflow: 0.813396 HPWL: 32156883
+[NesterovSolve] Iter: 230 overflow: 0.747029 HPWL: 36369419
+[NesterovSolve] Iter: 240 overflow: 0.695914 HPWL: 38238488
+[NesterovSolve] Iter: 250 overflow: 0.638937 HPWL: 38790610
+[NesterovSolve] Iter: 260 overflow: 0.569439 HPWL: 39456573
+[NesterovSolve] Iter: 270 overflow: 0.514728 HPWL: 41488318
+[NesterovSolve] Iter: 280 overflow: 0.452198 HPWL: 43767798
+[NesterovSolve] Iter: 290 overflow: 0.393314 HPWL: 45849041
+[NesterovSolve] Iter: 300 overflow: 0.33753 HPWL: 47944142
+[NesterovSolve] Iter: 310 overflow: 0.301594 HPWL: 49050503
+[NesterovSolve] Iter: 320 overflow: 0.261566 HPWL: 49392128
+[NesterovSolve] Iter: 330 overflow: 0.229511 HPWL: 49395981
+[NesterovSolve] Iter: 340 overflow: 0.198919 HPWL: 49282615
+[NesterovSolve] Iter: 350 overflow: 0.167418 HPWL: 49112875
+[NesterovSolve] Iter: 360 overflow: 0.142255 HPWL: 49150785
+[NesterovSolve] Iter: 370 overflow: 0.12119 HPWL: 49329639
+[NesterovSolve] Iter: 380 overflow: 0.106668 HPWL: 49460738
+[NesterovSolve] Finished with Overflow: 0.099749
+Elapsed time: 0:05.20[h:]min:sec. CPU time: user 5.11 sys 0.06 (99%). Peak memory: 225744KB.
